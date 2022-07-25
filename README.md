@@ -2,16 +2,16 @@
 
 
 <p align="center">
-  <img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/fabiopicolijr/go-barber?color=282A36" />
+  <img alt="Repo Size" title="Repo Size" src="https://img.shields.io/github/repo-size/supercomet329/go-barber?color=282A36" />
 
-  <img alt="Languages" title="Languages" src="https://img.shields.io/github/languages/count/fabiopicolijr/go-barber?color=282A36" />
+  <img alt="Languages" title="Languages" src="https://img.shields.io/github/languages/count/supercomet329/go-barber?color=282A36" />
 
-  <img alt="Language top" title="Language top" title="Made By fabiopicolijr"  src="https://img.shields.io/github/languages/top/fabiopicolijr/go-barber?color=282A36" />
+  <img alt="Language top" title="Language top" title="Made By supercomet329"  src="https://img.shields.io/github/languages/top/supercomet329/go-barber?color=282A36" />
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=282A36">
 
-  <a href="https://github.com/fabiopicolijr">
-    <img alt="Made By fabiopicolijr" title="Made By fabiopicolijr" src="https://img.shields.io/badge/made%20by-fabiopicolijr-FF9900" alt="Made by fabiopicolijr" />
+  <a href="https://github.com/supercomet329">
+    <img alt="Made By SuperComet329" title="Made By SuperComet329" src="https://img.shields.io/badge/made%20by-supercomet329-FF9900" alt="Made by SuperComet329" />
   <a>
 </p>
 
@@ -91,4 +91,4 @@ MIT License. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
-Developed :sparkles: &nbsp;&nbsp;by @fabiopicolijr :point_right: &nbsp;&nbsp;[See my linkedin](http://www.linkedin.com/in/fabiopicolijr).
+Developed :sparkles: &nbsp;&nbsp;by @supercomet329 :point_right: &nbsp;&nbsp;[See my linkedin](http://www.linkedin.com/in/hans-david-296a97240).
